@@ -1,0 +1,153 @@
+T.py
+Enter 1 to modify skill and monster data.
+Enter 2 to access the battle simulator.
+Enter 9 to quit.
+Enter your choice: 1
+Enter 1 to modify skills.
+Enter 2 to modify monsters.
+Enter 9 to exit to main menu.
+Enter your choice: 1
+Enter 1 to add a skill.
+Enter 2 to delete a skill.
+Enter 3 to search for a skill.
+Enter 4 to modify a skill.
+Enter 9 to exit to modifications menu.
+Enter your choice: 1
+Enter the following skill data:
+Name of new Skill: Mock
+Base damage of skill (integer): 5
+0 = None, 1 = Fire, 2 = Water, 3 = Earth, 4 = Wind, 5 = Light, 6 = Dark
+Element of skill (0-6 integer): 0
+Do you want to add another skill?
+Y = yes, anything else = no: n
+Skill successfully added to skills.txt.
+Enter 1 to add a skill.
+Enter 2 to delete a skill.
+Enter 3 to search for a skill.
+Enter 4 to modify a skill.
+Enter 9 to exit to modifications menu.
+Enter your choice: 3
+Enter a skill name to search for: Mock
+Name: Mock
+Damage: 5
+Element: 0
+
+Enter 1 to add a skill.
+Enter 2 to delete a skill.
+Enter 3 to search for a skill.
+Enter 4 to modify a skill.
+Enter 9 to exit to modifications menu.
+Enter your choice: 4
+Enter a skill name to search for: Mock
+Enter the new damage amount: 7
+0 = None, 1 = Fire, 2 = Water, 3 = Earth, 4 = Wind, 5 = Light, 6 = Dark
+Enter the new element(0-6 integer): 0
+The file has been updated.
+Enter 1 to add a skill.
+Enter 2 to delete a skill.
+Enter 3 to search for a skill.
+Enter 4 to modify a skill.
+Enter 9 to exit to modifications menu.
+Enter your choice: 2
+Which skill do you want to delete? Mock
+The file has been updated.
+Enter 1 to add a skill.
+Enter 2 to delete a skill.
+Enter 3 to search for a skill.
+Enter 4 to modify a skill.
+Enter 9 to exit to modifications menu.
+Enter your choice: 2
+Which skill do you want to delete? Toy
+That skill was not found in the file.
+Enter 1 to add a skill.
+Enter 2 to delete a skill.
+Enter 3 to search for a skill.
+Enter 4 to modify a skill.
+Enter 9 to exit to modifications menu.
+Enter your choice: 5
+Invalid Option. Type 1, 2, 3, 4, or 9.
+Enter 1 to add a skill.
+Enter 2 to delete a skill.
+Enter 3 to search for a skill.
+Enter 4 to modify a skill.
+Enter 9 to exit to modifications menu.
+Enter your choice: 9
+Enter 1 to modify skills.
+Enter 2 to modify monsters.
+Enter 9 to exit to main menu.
+Enter your choice: 3
+Invalid Option. Type 1, 2, or 9.
+Enter 1 to modify skills.
+Enter 2 to modify monsters.
+Enter 9 to exit to main menu.
+Enter your choice: 2
+Enter 1 to add a monster.
+Enter 2 to delete a monster.
+Enter 3 to search for a monster.
+Enter 4 to modify a monster.
+Enter 9 to exit to modifications menu.
+Enter your choice: 1
+Enter the following monster data:
+Name of new Monster: Cobra
+0 = None, 1 = Fire, 2 = Water, 3 = Earth, 4 = Wind, 5 = Light, 6 = Dark
+Element of monster (0-6 integer): 0
+Do you want to add another skill?
+Y = yes, anything else = no: n
+Monster successfully added to monsters.txt.
+Enter 1 to add a monster.
+Enter 2 to delete a monster.
+Enter 3 to search for a monster.
+Enter 4 to modify a monster.
+Enter 9 to exit to modifications menu.
+Enter your choice: 3
+Enter a monster name to search for: Cobra
+Name: Cobra
+Element: 0
+
+Enter 1 to add a monster.
+Enter 2 to delete a monster.
+Enter 3 to search for a monster.
+Enter 4 to modify a monster.
+Enter 9 to exit to modifications menu.
+Enter your choice: 4
+Enter a monster name to search for: Cobra
+0 = None, 1 = Fire, 2 = Water, 3 = Earth, 4 = Wind, 5 = Light, 6 = Dark
+Enter the new element: 6
+The file has been updated.
+Enter 1 to add a monster.
+Enter 2 to delete a monster.
+Enter 3 to search for a monster.
+Enter 4 to modify a monster.
+Enter 9 to exit to modifications menu.
+Enter your choice: 3
+Enter a monster name to search for: Cobra
+Name: Cobra
+Element: 6
+
+Enter 1 to add a monster.
+Enter 2 to delete a monster.
+Enter 3 to search for a monster.
+Enter 4 to modify a monster.
+Enter 9 to exit to modifications menu.
+Enter your choice: 2
+Which monster do you want to delete? Cobra
+The file has been updated.
+Enter 1 to add a monster.
+Enter 2 to delete a monster.
+Enter 3 to search for a monster.
+Enter 4 to modify a monster.
+Enter 9 to exit to modifications menu.
+Enter your choice: 9
+Enter 1 to modify skills.
+Enter 2 to modify monsters.
+Enter 9 to exit to main menu.
+Enter your choice: 9
+Enter 1 to modify skill and monster data.
+Enter 2 to access the battle simulator.
+Enter 9 to quit.
+Enter your choice: 4
+Invalid Option. Type 1, 2, or 9.
+Enter 1 to modify skill and monster data.
+Enter 2 to access the battle simulator.
+Enter 9 to quit.
+Enter your choice: 9

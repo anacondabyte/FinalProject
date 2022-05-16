@@ -1,0 +1,24 @@
+The various errors I faced while working on this program wher mostly easy-to-fix syntax errors (I was somewhat lucky there)
+
+However some errors included accessors and mutators of working incorrectly and having to be adjusted
+One solution was that I made some classes no-longer needed, and those were originally a player, battler and monster class.
+Without those three, the system ran with little errors.
+
+Another issue was the inabililty to copy one of the classes in a list. My solution was to use accessors and mutators to work around
+the issue.
+
+The first issue took a while to fix, but other than that, the program runs beautifly.
+
+Traceback (most recent call last):
+  File "C:/Users/david/OneDrive/Python/FinalProject/EASTON_DAVID_FINAL_PROJECT.py", line 514, in <module>
+    main()
+  File "C:/Users/david/OneDrive/Python/FinalProject/EASTON_DAVID_FINAL_PROJECT.py", line 513, in main
+    mainLoop()
+  File "C:/Users/david/OneDrive/Python/FinalProject/EASTON_DAVID_FINAL_PROJECT.py", line 507, in mainLoop
+    fileModification()
+  File "C:/Users/david/OneDrive/Python/FinalProject/EASTON_DAVID_FINAL_PROJECT.py", line 87, in fileModification
+    monstersFileAccess.modifyMonster()
+  File "C:\Users/david/OneDrive/Python/FinalProject\monstersFileAccess.py", line 155, in modifyMonster
+    name = monsters_file.readline()
+NameError: name 'monsters_file' is not defined. Did you mean: 'monster_file'?
+ One last issue caused the delete functions in the modifications menu to convert ints to floats. Easily and quickly rectified by swapping float fucntions for int functions

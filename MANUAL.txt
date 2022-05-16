@@ -1,0 +1,75 @@
+How to use Rpg Program: It may look complicated, but its very easy to use when running.
+Allows you to add skills/Monsters and use them in a simple rpg battle
+
+DO NOT DIRECTLY TAMPER WITH skills.txt, monsters.txt. and source code!!!
+
+1. Main Menu:
+	-You will be given three options:
+		-Enter 1 to access monster/skill modification menu
+		-Enter 2 to enter Monster Battle Simulator (Pre-made data does exist! Don't Worry)
+		-Enter 9 to quit
+		-Entering any other number will cause it to prompt you again.
+2. Monster and Skills Menus
+	-You will be given three options:
+		-Enter 1 to modify/access skills
+		-Enter 2 to modify/access monsters
+		-Enter 9 to return to main menu
+		-Entering any other number will cause it to prompt you again.
+	-Skills options:
+		-Enter 1 to add a skill. You will be asked to provide an name for the skill, an integer for
+			the base damage, and an integer for the element (Must be 0-6).
+		-Enter 2 to remove a skill. You will be asked to provide an name for the skill.
+		
+		-Enter 3 to search a skill. You will be asked to provide an name for the skill. It will display the skill's name and its attributes
+
+		-Enter 4 to modify a skill. You will be asked to provide an name for the skill, and prompted to modify the integer for
+			the base damage and the integer for the element (Must be 0-6).
+		-Enter 9 to return to Monster/Skills Menu
+		-Entering any other number will cause it to prompt you again.
+	-Monster options:
+		-Enter 1 to add a skill. You will be asked to provide an name for the monster and an integer for the element (Must be 0-6).
+		-Enter 2 to remove a monster. You will be asked to provide an name for the monster.
+		
+		-Enter 3 to search a monster. You will be asked to provide an name for the monster. It will display the monster's name and its element
+
+		-Enter 4 to modify a skill. You will be asked to provide an name for the monster and an integer for the element (Must be 0-6).
+
+		-Enter 9 to return to Monster/Skills Menu
+		-Entering any other number will cause it to prompt you again.
+3. Battle System
+	-You will be given three options:
+		-Enter 1 to battle a random monster (Will be randomly chosen from list)
+		-Enter 2 to choose a monster (Recommended only if you know of an existing monster)
+			-You will provide the monster's name
+		-Enter 9 to return to main menu
+		-Skills are randomized
+	-Player:
+		-The monster will be displayed with randomized stats (attack, defense, speed)
+		-You will be prompted to provide a player name
+		-You will also be prompted to provide an element value (0-6)
+		-Your stats will be randomized, but you will be given the option to reroll them using a Y/N question (Only provide Y, y, N, n, or you will be prompted again)
+		-Skills are randomized
+	-Battle:
+		-Both fighters start with 500 health
+		-Elements:
+			0 = None
+			1 = Fire (Weak to Water)
+			2 = Water (Weak to Earth)
+			3 = Earth (Weak to Wind)
+			4 = Wind (Weak to Fire)
+			5 = Light (Weak to Dark)
+			6 = Dark (Weak to Light)
+			-Damage Multiplier works in that if the user's attack element is strong against the enemy's element, damage is doubled. 
+				Otherwise, damage multiplier does not affect formula at all
+				
+		-Speed determines who attacks first
+		-The Monster will randomly select one of its skills on its turn
+		-You will be given an option to pick between your skills (Prompted 1 thru 4, else you will be prompted again)
+		-All four are given as options showing their names, base damage, and element
+
+		Damage is calculated based on this formula: (base damage + ((user attack) * 2 - target defense)) * damage multiplier
+		
+		First one to bring the opponent's health to 0 wins. Then, you will return to the Battle System Menu
+Enjoy! :)
+		
+	

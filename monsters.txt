@@ -1,0 +1,20 @@
+Pillow Pet
+0
+Hot Mess
+1
+Zebra Mussel
+2
+Rockin Mineral
+3
+Angry Bird
+4
+Electronic Eel
+5
+Unholy Knight
+6
+Cobra
+6
+Mobile Foe
+5
+Bat
+0

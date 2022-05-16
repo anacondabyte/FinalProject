@@ -1,0 +1,157 @@
+Enter 1 to modify skill and monster data.
+Enter 2 to access the battle simulator.
+Enter 9 to quit.
+Enter your choice: 2
+Enter 1 to start battle with random monster.
+Enter 2 to start battle with monster of choice.
+Enter 9 to exit to main menu.
+Enter your choice: 9
+Enter 1 to modify skill and monster data.
+Enter 2 to access the battle simulator.
+Enter 9 to quit.
+Enter your choice: 1
+Enter 1 to modify skills.
+Enter 2 to modify monsters.
+Enter 9 to exit to main menu.
+Enter your choice: 2
+Enter 1 to add a monster.
+Enter 2 to delete a monster.
+Enter 3 to search for a monster.
+Enter 4 to modify a monster.
+Enter 9 to exit to modifications menu.
+Enter your choice: 1
+Enter the following monster data:
+Name of new Monster: Cobra
+0 = None, 1 = Fire, 2 = Water, 3 = Earth, 4 = Wind, 5 = Light, 6 = Dark
+Element of monster (0-6 integer): 6
+Do you want to add another skill?
+Y = yes, anything else = no: y
+Enter the following monster data:
+Name of new Monster: Mobile Foe
+0 = None, 1 = Fire, 2 = Water, 3 = Earth, 4 = Wind, 5 = Light, 6 = Dark
+Element of monster (0-6 integer): 5
+Do you want to add another skill?
+Y = yes, anything else = no: y
+Enter the following monster data:
+Name of new Monster: Bat
+0 = None, 1 = Fire, 2 = Water, 3 = Earth, 4 = Wind, 5 = Light, 6 = Dark
+Element of monster (0-6 integer): 0
+Do you want to add another skill?
+Y = yes, anything else = no: y
+Enter the following monster data:
+Name of new Monster: Cat
+0 = None, 1 = Fire, 2 = Water, 3 = Earth, 4 = Wind, 5 = Light, 6 = Dark
+Element of monster (0-6 integer): 0
+Do you want to add another skill?
+Y = yes, anything else = no: n
+Monster successfully added to monsters.txt.
+Enter 1 to add a monster.
+Enter 2 to delete a monster.
+Enter 3 to search for a monster.
+Enter 4 to modify a monster.
+Enter 9 to exit to modifications menu.
+Enter your choice: 2
+Which monster do you want to delete? Cat
+The file has been updated.
+Enter 1 to add a monster.
+Enter 2 to delete a monster.
+Enter 3 to search for a monster.
+Enter 4 to modify a monster.
+Enter 9 to exit to modifications menu.
+Enter your choice: 9
+Enter 1 to modify skills.
+Enter 2 to modify monsters.
+Enter 9 to exit to main menu.
+Enter your choice: 9
+Enter 1 to modify skill and monster data.
+Enter 2 to access the battle simulator.
+Enter 9 to quit.
+Enter your choice: 2
+Enter 1 to start battle with random monster.
+Enter 2 to start battle with monster of choice.
+Enter 9 to exit to main menu.
+Enter your choice: 1
+Monster Name:  Cobra
+Monster Element:  Dark
+Monster Health:  500
+Monster Attack:  14
+Monster Defense:  29
+Monster Speed:  13
+Enter Player name: Jim
+0 = None, 1 = Fire, 2 = Water, 3 = Earth, 4 = Wind, 5 = Light, 6 = Dark
+Enter Player element (0-6): 5
+Attack:  36
+Defense:  31
+Speed:  36
+Do you like these stats? (y/n): y
+____________________________________________
+Cobra  |  Dark  |  500
+Jim  |  Light  |  500
+____________________________________________
+Skill #: Name | Element | Damage
+Skill 1:  Whirlpool  |  Water  |  25
+Skill 2:  Volcano  |  Fire  |  35
+Skill 3:  Rock  |  Earth  |  20
+Skill 1:  Lightning  |  Light  |  25
+Input skill number you want to use (1-4):4
+Jim used Lightning
+The attack dealt  136  damage.
+____________________________________________
+Cobra  |  Dark  |  364
+Jim  |  Light  |  500
+____________________________________________
+Cobra used Volcano
+The attack dealt  32  damage.
+____________________________________________
+Cobra  |  Dark  |  364
+Jim  |  Light  |  468
+____________________________________________
+Skill #: Name | Element | Damage
+Skill 1:  Whirlpool  |  Water  |  25
+Skill 2:  Volcano  |  Fire  |  35
+Skill 3:  Rock  |  Earth  |  20
+Skill 1:  Lightning  |  Light  |  25
+Input skill number you want to use (1-4):4
+Jim used Lightning
+The attack dealt  136  damage.
+____________________________________________
+Cobra  |  Dark  |  228
+Jim  |  Light  |  468
+____________________________________________
+Cobra used Volcano
+The attack dealt  32  damage.
+____________________________________________
+Cobra  |  Dark  |  228
+Jim  |  Light  |  436
+____________________________________________
+Skill #: Name | Element | Damage
+Skill 1:  Whirlpool  |  Water  |  25
+Skill 2:  Volcano  |  Fire  |  35
+Skill 3:  Rock  |  Earth  |  20
+Skill 1:  Lightning  |  Light  |  25
+Input skill number you want to use (1-4):4
+Jim used Lightning
+The attack dealt  136  damage.
+____________________________________________
+Cobra  |  Dark  |  92
+Jim  |  Light  |  436
+____________________________________________
+Cobra used Updraft
+The attack dealt  22  damage.
+____________________________________________
+Cobra  |  Dark  |  92
+Jim  |  Light  |  414
+____________________________________________
+Skill #: Name | Element | Damage
+Skill 1:  Whirlpool  |  Water  |  25
+Skill 2:  Volcano  |  Fire  |  35
+Skill 3:  Rock  |  Earth  |  20
+Skill 1:  Lightning  |  Light  |  25
+Input skill number you want to use (1-4):4
+Jim used Lightning
+The attack dealt  136  damage.
+Cobra  successfully defeated!
+Enter 1 to start battle with random monster.
+Enter 2 to start battle with monster of choice.
+Enter 9 to exit to main menu.
+Enter your choice: 

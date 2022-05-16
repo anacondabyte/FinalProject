@@ -1,0 +1,193 @@
+It has been grammatically formatted by now, but this is proof that the program works.
+----Beginning of program----------
+Enter 1 to modify skill and monster data.
+Enter 2 to access the battle simulator.
+Enter 9 to quit.
+Enter your choice: 2
+Enter 1 to start battle with random monster.
+Enter 2 to start battle with monster of choice.
+Enter 9 to exit to main menu.
+Enter your choice: 1
+Monster Name:  Hot Mess
+Monster Element:  Fire
+Monster Health:  500
+Monster Attack:  34
+Monster Defense:  36
+Monster Speed:  37
+Enter Player name: Bob
+0 = None, 1 = Fire, 2 = Water, 3 = Earth, 4 = Wind, 5 = Light, 6 = Dark
+Enter Player element (0-6): 2
+Attack:  11
+Defense:  35
+Speed:  11
+Do you like these stats? (y/n): n
+Attack:  33
+Defense:  11
+Speed:  33
+Do you like these stats? (y/n): n
+Attack:  18
+Defense:  11
+Speed:  18
+Do you like these stats? (y/n): n
+Attack:  20
+Defense:  21
+Speed:  20
+Do you like these stats? (y/n): n
+Attack:  17
+Defense:  38
+Speed:  17
+Do you like these stats? (y/n): n
+Attack:  39
+Defense:  33
+Speed:  39
+Do you like these stats? (y/n): y
+Hot Mess Fire 500
+Bob Water 500
+Hot Mess used Black Hole
+The dealt  70  damage.
+Hot Mess Fire 500
+Bob Water 430
+Skill #: Name | Element | Damage
+Skill 1:  Updraft  |  Wind  |  25
+Skill 2:  Volcano  |  Fire  |  35
+Skill 3:  Wave  |  Water  |  20
+Skill 1:  Tornado  |  Wind  |  35
+Input skill number you want to use (1-4):2
+Bob used Volcano
+The dealt  77  damage.
+Hot Mess Fire 423
+Bob Water 430
+Hot Mess used Gust
+The dealt  55  damage.
+Hot Mess Fire 423
+Bob Water 375
+Skill #: Name | Element | Damage
+Skill 1:  Updraft  |  Wind  |  25
+Skill 2:  Volcano  |  Fire  |  35
+Skill 3:  Wave  |  Water  |  20
+Skill 1:  Tornado  |  Wind  |  35
+Input skill number you want to use (1-4):3
+Bob used Wave
+The dealt  124  damage.
+Hot Mess Fire 299
+Bob Water 375
+Hot Mess used Gust
+The dealt  55  damage.
+Hot Mess Fire 299
+Bob Water 320
+Skill #: Name | Element | Damage
+Skill 1:  Updraft  |  Wind  |  25
+Skill 2:  Volcano  |  Fire  |  35
+Skill 3:  Wave  |  Water  |  20
+Skill 1:  Tornado  |  Wind  |  35
+Input skill number you want to use (1-4):3
+Bob used Wave
+The dealt  124  damage.
+Hot Mess Fire 175
+Bob Water 320
+Hot Mess used Black Hole
+The dealt  70  damage.
+Hot Mess Fire 175
+Bob Water 250
+Skill #: Name | Element | Damage
+Skill 1:  Updraft  |  Wind  |  25
+Skill 2:  Volcano  |  Fire  |  35
+Skill 3:  Wave  |  Water  |  20
+Skill 1:  Tornado  |  Wind  |  35
+Input skill number you want to use (1-4):3
+Bob used Wave
+The dealt  124  damage.
+Hot Mess Fire 51
+Bob Water 250
+Hot Mess used Black Hole
+The dealt  70  damage.
+Hot Mess Fire 51
+Bob Water 180
+Skill #: Name | Element | Damage
+Skill 1:  Updraft  |  Wind  |  25
+Skill 2:  Volcano  |  Fire  |  35
+Skill 3:  Wave  |  Water  |  20
+Skill 1:  Tornado  |  Wind  |  35
+Input skill number you want to use (1-4):3
+Bob used Wave
+The dealt  124  damage.
+Hot Mess  successfully defeated!
+Enter 1 to start battle with random monster.
+Enter 2 to start battle with monster of choice.
+Enter 9 to exit to main menu.
+Enter your choice: 2
+Enter the monster's name: Hot Mess
+Monster Name:  Hot Mess
+Monster Element:  Fire
+Monster Health:  500
+Monster Attack:  28
+Monster Defense:  10
+Monster Speed:  28
+Enter Player name: Bob
+0 = None, 1 = Fire, 2 = Water, 3 = Earth, 4 = Wind, 5 = Light, 6 = Dark
+Enter Player element (0-6): 2
+Attack:  30
+Defense:  29
+Speed:  30
+Do you like these stats? (y/n): y
+Hot Mess Fire 500
+Bob Water 500
+Hot Mess used Rift
+The dealt  47  damage.
+Hot Mess Fire 500
+Bob Water 453
+Skill #: Name | Element | Damage
+Skill 1:  Melt  |  Fire  |  20
+Skill 2:  Void  |  Dark  |  25
+Skill 3:  Whirlpool  |  Water  |  25
+Skill 1:  Rift  |  Dark  |  20
+Input skill number you want to use (1-4):3
+Bob used Whirlpool
+The dealt  150  damage.
+Hot Mess Fire 350
+Bob Water 453
+Hot Mess used Volcano
+The dealt  62  damage.
+Hot Mess Fire 350
+Bob Water 391
+Skill #: Name | Element | Damage
+Skill 1:  Melt  |  Fire  |  20
+Skill 2:  Void  |  Dark  |  25
+Skill 3:  Whirlpool  |  Water  |  25
+Skill 1:  Rift  |  Dark  |  20
+Input skill number you want to use (1-4):2
+Bob used Void
+The dealt  150  damage.
+Hot Mess Fire 200
+Bob Water 391
+Hot Mess used Pebble
+The dealt  74  damage.
+Hot Mess Fire 200
+Bob Water 317
+Skill #: Name | Element | Damage
+Skill 1:  Melt  |  Fire  |  20
+Skill 2:  Void  |  Dark  |  25
+Skill 3:  Whirlpool  |  Water  |  25
+Skill 1:  Rift  |  Dark  |  20
+Input skill number you want to use (1-4):3
+Bob used Whirlpool
+The dealt  150  damage.
+Hot Mess Fire 50
+Bob Water 317
+Hot Mess used Supernova
+The dealt  62  damage.
+Hot Mess Fire 50
+Bob Water 255
+Skill #: Name | Element | Damage
+Skill 1:  Melt  |  Fire  |  20
+Skill 2:  Void  |  Dark  |  25
+Skill 3:  Whirlpool  |  Water  |  25
+Skill 1:  Rift  |  Dark  |  20
+Input skill number you want to use (1-4):3
+Bob used Whirlpool
+The dealt  150  damage.
+Hot Mess  successfully defeated!
+Enter 1 to start battle with random monster.
+Enter 2 to start battle with monster of choice.
+Enter 9 to exit to main menu.
+Enter your choice: 
